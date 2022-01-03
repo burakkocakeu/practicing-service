@@ -1,0 +1,2 @@
+-- Flyway skips this version since all the DDLs are created by the existing Entities
+-- See: FlywayConfiguration class.
